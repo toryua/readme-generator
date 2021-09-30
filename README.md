@@ -29,12 +29,12 @@
 
   ## License
 
-  MIT
+ Choose a license
 
   ## LicenseLink
 
-  https://opensource.org/licenses/MIT
-
+ Link to your license here
+ 
   ## Tests 
   
   Not applicable right now.
